@@ -1,6 +1,5 @@
 # 31Library  
 31 Library  
 - HttpHelper  
-	Http ¤pÀ°¤â¡A¥i¥H Post «ü©wªº¤º®e¨ì«ü©wªººô§}¡A¨Ã¥B¥i¥H¨ú±o¦^¶Çªº¤º®e¡C  
-	¨Ï¥Î¦¹ª«¥ó¥i¥HÁ×§K¨Ï¥Î HttpClient ²£¥Í¤Ó¦h³s½uªº°ÝÃD¡C  
-	
+	Http å°å¹«æ‰‹ï¼Œå¯ä»¥ Post æŒ‡å®šçš„å…§å®¹åˆ°æŒ‡å®šçš„ç¶²å€ï¼Œä¸¦ä¸”å¯ä»¥å–å¾—å›žå‚³çš„å…§å®¹ã€‚  
+	ä½¿ç”¨æ­¤ç‰©ä»¶å¯ä»¥é¿å…ä½¿ç”¨ HttpClient ç”¢ç”Ÿå¤ªå¤šé€£ç·šçš„å•é¡Œã€‚  
