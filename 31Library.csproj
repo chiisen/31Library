@@ -5,7 +5,17 @@
     <RootNamespace>_31Library</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<Authors>Sam</Authors>
+	<Company>My Company</Company>
+	<Description>31 Library</Description>
+	<Copyright>MIT License</Copyright>
+	<PackageProjectUrl>https://github.com/chiisen/31Library</PackageProjectUrl>
+	<PackageIconUrl>https://chiisen.github.io/image/github.io/cat-icon.png</PackageIconUrl>
+	<PackageTags>C#</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Version>1.0.0</Version>
+	<AssemblyVersion>1.0.1.0</AssemblyVersion>
+	<FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
